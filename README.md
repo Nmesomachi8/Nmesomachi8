@@ -3,7 +3,7 @@
 🎯 Data Analyst with strong skills in Excel and Power BI, and growing expertise in SQL and Python.  
 📊 Passionate about turning raw data into meaningful insights that drive business decisions.  
 🎓 Biomedical Engineering student with strong analytical and problem-solving skills.  
-🌍 Open to opportunities in all forms of Data Analytics — business, financial, healthcare, HR, and more.  
+🌍 Open to opportunities in all forms of Data Analytics — business, financial, healthcare and HR analytics.
 
 ## Skills & Tools
 - Excel (Advanced: Pivot Tables, Power Query, Dashboards)  
