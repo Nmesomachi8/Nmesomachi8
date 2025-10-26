@@ -1,6 +1,7 @@
 # Hi, I'm Esther Nmesomachukwu Odinihu ✨
 
-I’m a Data Analyst who enjoys transforming raw data into meaningful insights that guide smarter decisions. My work focuses on turning messy datasets into clear, actionable stories through clean visuals and solid analysis.
+Welcome to my GitHub profile!
+I’m a Data Analyst who enjoys exploring data, uncovering patterns, and turning numbers into meaningful stories that drive smarter decisions.
 
 ## 🧩 About Me
 I studied Biomedical Engineering, a field that sharpened my analytical thinking and problem-solving mindset. Over time, I discovered how much I love working with data; cleaning it, analyzing it, and finding the why behind every trend.
@@ -16,7 +17,7 @@ I mainly work with:
 
 • Power BI – Designing dashboards that visualize trends and drive smart decisions.
 
-• Python – Learning data manipulation and visualization using Pandas, NumPy, and Matplotlib.
+• Python (Learning Stage) – Learning data manipulation and visualization using Pandas, NumPy, and Matplotlib.
 
 I use data storytelling to communicate insights in simple, visual, and relatable ways.
 
