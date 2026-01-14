@@ -35,8 +35,11 @@ On this GitHub, you’ll see:
 ## Portfolio Projects
 
 • HR Analytics Project
+
 • SQL Data Jobs Analysis Project
+
 • Sales Dashboard 
+
 • More projects coming soon (Excel, Power BI, SQL, Python).  
 
 ## 🌐 Let’s Connect
