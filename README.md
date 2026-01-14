@@ -34,10 +34,9 @@ On this GitHub, you’ll see:
 
 ## Portfolio Projects
 
-• [HR Analytics Project](https://github.com/Nmesomachi8/HR-Analytics-Project) – Exploring employee attrition patterns using the IBM HR dataset from Kaggle.
-
+• HR Analytics Project
+• SQL Data Jobs Analysis Project
 • Sales Dashboard 
-
 • More projects coming soon (Excel, Power BI, SQL, Python).  
 
 ## 🌐 Let’s Connect
